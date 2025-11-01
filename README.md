@@ -6,3 +6,5 @@ A simple Python script to log coding sessions and practice the Git/GitHub workfl
 `python time_tracker.py`
 
 * Successfully set up Git Credential Manager on Windows!
+
+this is a test change
